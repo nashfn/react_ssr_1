@@ -35,6 +35,8 @@ function App() {
 export default App
 
 // TODO Learning:
+// Next step
+// - Add AudioRecorder component to App.jsx to record audio and send to server.
 // 0. Add Lovable mic streaming, audio output support.
 //   Code hint: https://github.com/nashfn/talk-to-the-scribe/tree/main/src/components
 // 1. Add OAI real time support. 
